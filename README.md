@@ -2,7 +2,7 @@
 
 ## Engineering student, tech and space enthusiast, avid gamer, home cook, sports fan and more.
 
-- 🌱 I’m currently learning Java mostly
+
 - ⚡ Fun fact: My favorite dish is ramen
  
 <!--
